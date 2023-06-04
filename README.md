@@ -1,13 +1,13 @@
-# Analise-Exploratoria-de-Dados
+# Analise Exploratoria de Dados
 
-Tema: Banco de Dados de Síndrome Respiratória Aguda Grave (2013 - 2018)
+# Tema: Banco de Dados de Síndrome Respiratória Aguda Grave (2013 - 2018)
 
-Integrantes:
+# Integrantes:
 
-KARIMAN GOMES FERREIRA DO NASCIMENTO SP3068811
+Kariman Gomes Ferreira do Nascimento SP3068811
 
-MARCELO FERREIRA CRUZ SP3068862
+Marcelo Ferreira Cruz SP3068862
 
 Mariana SP
 
-VICTOR YOSHINOBU LISBOA SAGAWA SP3073513
+Victor Yoshinobu Lisboa Sagawa SP3073513
