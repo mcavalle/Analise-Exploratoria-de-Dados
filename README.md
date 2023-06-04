@@ -1,6 +1,6 @@
 # Analise Exploratoria de Dados
 
-# Tema: Banco de Dados de Síndrome Respiratória Aguda Grave (2013 - 2018)
+Tema: Banco de Dados de Síndrome Respiratória Aguda Grave (2013 - 2018)
 
 # Integrantes:
 
